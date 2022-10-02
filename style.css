@@ -1,0 +1,7 @@
+*{margin: 0px;
+padding: 0px;}
+.container{display: grid;
+grid-template-columns: 33.33;}
+.box1{ background-color: blueviolet;
+    width: 100px ;
+height: 100px; ;}
